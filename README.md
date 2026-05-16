@@ -1,5 +1,44 @@
 # 💫 About Me:
-## 👋 About Me<br><br>```python<br>class VikasPrajapat:<br><br>    def __init__(self):<br>        self.role = "Data Analyst"<br>        self.education = "NIT Warangal"<br>        self.skills = ["Python", "SQL", "Power BI", "Web Scraping"]<br>        self.interests = [<br>            "Data Analytics",<br>            "Dashboard Development",<br>            "Machine Learning",<br>            "Automation"<br>        ]<br><br>    def currently_working_on(self):<br>        return [<br>            "Real-world Data Projects",<br>            "Interactive Dashboards",<br>            "Data-driven Solutions"<br>        ]<br><br>    def fun_fact(self):<br>        return "I love turning messy data into meaningful insights 📊"<br>```<br>
+
+## 👋 About Me
+
+```python
+class VikasPrajapat:
+
+    role = "Data Analyst"
+    college = "NIT Warangal"
+
+    skills = [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "MySQL"
+    ]
+
+    libraries = [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn"
+    ]
+
+    tools = [
+        "BeautifulSoup",
+        "Selenium",
+        "Streamlit",
+        "Git"
+    ]
+
+    interests = [
+        "Data Analytics",
+        "Machine Learning",
+        "Automation"
+    ]
+
+    fun_fact = "Turning raw data into insights 📊"
+```
+
 
 
 ## 🌐 Socials:
