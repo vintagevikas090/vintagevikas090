@@ -14,7 +14,7 @@ class VikasPrajapat:
         "Power BI"
     ]
 
-    libraries = [
+    Libraries = [
         "Pandas",
         "NumPy",
         "Matplotlib",
@@ -23,7 +23,7 @@ class VikasPrajapat:
         "Selenium"
     ]
 
-    tools = [
+    Tools = [
         "Jupyter Notebook",
         "VS Code",
         "Power BI",
