@@ -5,40 +5,33 @@
 ```python
 class VikasPrajapat:
 
-    role = "Data Analyst"
-    college = "NIT Warangal"
+    Role = "Data Analyst"
+    College = "NIT Warangal"
 
-    skills = [
+    Skills = [
         "Python",
         "SQL",
-        "Power BI",
-        "Tableau",
-        "MySQL"
+        "Power BI"
     ]
 
     libraries = [
         "Pandas",
         "NumPy",
         "Matplotlib",
-        "Seaborn"
+        "Seaborn",
+        "BeautifulSoup",
+        "Selenium"
     ]
 
     tools = [
-        "BeautifulSoup",
-        "Selenium",
-        "Streamlit",
+        "Jupyter Notebook",
+        "VS Code",
+        "Power BI",
+        "MySQL Workbench"
         "Git"
     ]
-
-    interests = [
-        "Data Analytics",
-        "Machine Learning",
-        "Automation"
-    ]
-
     fun_fact = "Turning raw data into insights 📊"
 ```
-
 
 
 ## 🌐 Socials:
