@@ -5,14 +5,14 @@ class VikasPrajapat:
     Role = "Data Analyst"
     College = "NIT Warangal"
 
-    Skills = 
-        ["Python", "SQL", "Power BI"]
+    Skills = [
+        "Python", "SQL", "Power BI"]
 
-    Libraries = 
-        ["Pandas", "NumPy", "Matplotlib", "Seaborn", "BeautifulSoup", "Selenium"]
+    Libraries = [
+        "Pandas", "NumPy", "Matplotlib", "Seaborn", "BeautifulSoup", "Selenium"]
 
-    Tools = 
-        ["Jupyter Notebook", "VS Code", "Power BI", "MySQL Workbench", "Git"]
+    Tools = [
+        "Jupyter Notebook", "VS Code", "Power BI", "MySQL Workbench", "Git"]
 
     fun_fact = "Turning raw data into insights 📊"
 ```
