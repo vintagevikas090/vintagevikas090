@@ -1,7 +1,4 @@
 # 💫 About Me:
-
-## 👋 About Me
-
 ```python
 class VikasPrajapat:
 
@@ -9,26 +6,15 @@ class VikasPrajapat:
     College = "NIT Warangal"
 
     Skills = [
-        "Python",
-        "SQL",
-        "Power BI"
+        "Python", "SQL", "Power BI"
     ]
 
     Libraries = [
-        "Pandas",
-        "NumPy",
-        "Matplotlib",
-        "Seaborn",
-        "BeautifulSoup",
-        "Selenium"
+        "Pandas", "NumPy", "Matplotlib", "Seaborn", "BeautifulSoup", "Selenium"
     ]
 
     Tools = [
-        "Jupyter Notebook",
-        "VS Code",
-        "Power BI",
-        "MySQL Workbench"
-        "Git"
+        "Jupyter Notebook", "VS Code", "Power BI", "MySQL Workbench", "Git"
     ]
     fun_fact = "Turning raw data into insights 📊"
 ```
