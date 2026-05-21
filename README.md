@@ -1,6 +1,11 @@
-```md
+<h1 align="center">VIKAS PRAJAPAT</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;FastAPI+Developer;Web+Scraping+Specialist" />
+Data Analyst • Python Developer • Problem Solver
+</p>
+
+<p align="center">
+I transform messy datasets into actionable insights 📊
 </p>
 
 # 💫 About Me
