@@ -8,11 +8,16 @@ class VikasPrajapat:
     Skills = [
         "Python", "SQL", "Power BI", "FastAPI"]
 
-    Libraries = [
-        "Pandas", "NumPy", "Matplotlib", "Seaborn", "BeautifulSoup", "Selenium"]
+    Libraries = {
+        "Visualization" : ["Matplotlib", "Seaborn", "Plotly"],
+        "Data Processing" : ["Pandas", "NumPy"],
+        "Web Scraping": ["BeautifulSoup", "Selenium", "Requests"],
+        "File Handling": ["CSV", "OS", "JSON"]
+    }
 
     Tools = [
-        "Jupyter Notebook", "VS Code", "Power BI", "MySQL Workbench", "Git", "AWS"]
+        "Jupyter Notebook", "VS Code", "Power BI", "AWS",
+        "MySQL Workbench", "Git" ]
 
 ```
 
