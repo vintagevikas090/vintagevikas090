@@ -8,20 +8,20 @@ Data Analyst • Python Developer • Problem Solver
 ```python
 class VikasPrajapat:
 
-    self.college = "NIT Warangal"
+    🎓 self.college = "NIT Warangal"
 
-    self.skills = [
+    💻 self.skills = [
         "Python", "SQL", "Power BI", "FastAPI"
     ]
 
-    self.libraries = {
-        "Visualization" : ["Matplotlib", "Seaborn", "Plotly"],
-        "Data Processing" : ["Pandas", "NumPy"],
-        "Web Scraping": ["BeautifulSoup", "Selenium", "Requests"],
-        "File Handling": ["CSV", "OS", "JSON"]
+    📚 self.libraries = {
+        📊"Visualization" : ["Matplotlib", "Seaborn", "Plotly"],
+        ⚙️"Data Processing" : ["Pandas", "NumPy"],
+        🌐"Web Scraping": ["BeautifulSoup", "Selenium", "Requests"],
+        📂"File Handling": ["CSV", "OS", "JSON"]
     }
 
-    self.ools = [
+    🛠️ self.tools = [
         "Jupyter Notebook", "VS Code", "Power BI", "AWS",
         "MySQL Workbench", "Git"
     ]
