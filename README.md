@@ -1,7 +1,7 @@
 <h1 align="center">VIKAS PRAJAPAT</h1>
 
 <p align="center">
-Data Analyst • Python Developer • Problem Solver
+Data Analyst • Python Developer
 </p>
 
 # 💫 About Me
