@@ -16,14 +16,11 @@ class VikasPrajapat:
 
     📚 self.libraries = {
         📊"Visualization" : [
-                "Matplotlib", "Seaborn", "Plotly"
-           ],
+                "Matplotlib", "Seaborn", "Plotly" ],
         ⚙️"Data Processing" : [
-                "Pandas", "NumPy"
-           ],
+                "Pandas", "NumPy" ],
         🌐"Web Scraping": [
-                "BeautifulSoup", "Selenium", "Requests"
-           ],
+                "BeautifulSoup", "Selenium", "Requests" ],
         📂"File Handling": [
                 "CSV", "OS", "JSON"  ]
     }
