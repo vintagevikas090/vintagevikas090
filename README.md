@@ -14,7 +14,6 @@ class VikasPrajapat:
     Tools = [
         "Jupyter Notebook", "VS Code", "Power BI", "MySQL Workbench", "Git", "AWS"]
 
-    fun_fact = "Turning raw data into insights 📊"
 ```
 
 # 💻 Tech Stack
