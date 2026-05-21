@@ -1,5 +1,4 @@
 <h1 align="center">VIKAS PRAJAPAT</h1>
-
 <p align="center">
 Data Analyst • Python Developer
 </p>
