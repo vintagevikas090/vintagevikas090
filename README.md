@@ -4,29 +4,24 @@
 Data Analyst • Python Developer • Problem Solver
 </p>
 
-<p align="center">
-I transform messy datasets into actionable insights 📊
-</p>
-
 # 💫 About Me
 ```python
 class VikasPrajapat:
 
-    Role = "Data Analyst"
-    College = "NIT Warangal"
+    self.college = "NIT Warangal"
 
-    Skills = [
+    self.skills = [
         "Python", "SQL", "Power BI", "FastAPI"
     ]
 
-    Libraries = {
+    self.libraries = {
         "Visualization" : ["Matplotlib", "Seaborn", "Plotly"],
         "Data Processing" : ["Pandas", "NumPy"],
         "Web Scraping": ["BeautifulSoup", "Selenium", "Requests"],
         "File Handling": ["CSV", "OS", "JSON"]
     }
 
-    Tools = [
+    self.ools = [
         "Jupyter Notebook", "VS Code", "Power BI", "AWS",
         "MySQL Workbench", "Git"
     ]
