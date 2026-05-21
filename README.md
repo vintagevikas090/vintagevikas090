@@ -1,3 +1,8 @@
+```md
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Enthusiast;FastAPI+Developer;Web+Scraping+Specialist" />
+</p>
+
 # 💫 About Me
 ```python
 class VikasPrajapat:
