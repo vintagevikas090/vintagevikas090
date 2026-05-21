@@ -6,7 +6,8 @@ class VikasPrajapat:
     College = "NIT Warangal"
 
     Skills = [
-        "Python", "SQL", "Power BI", "FastAPI"]
+        "Python", "SQL", "Power BI", "FastAPI"
+    ]
 
     Libraries = {
         "Visualization" : ["Matplotlib", "Seaborn", "Plotly"],
@@ -17,7 +18,8 @@ class VikasPrajapat:
 
     Tools = [
         "Jupyter Notebook", "VS Code", "Power BI", "AWS",
-        "MySQL Workbench", "Git" ]
+        "MySQL Workbench", "Git"
+    ]
 
 ```
 
