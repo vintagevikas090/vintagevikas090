@@ -55,7 +55,6 @@ class VikasPrajapat:
 # 🏆 Highlights
 
 * 🎓 Graduate from NIT Warangal
-* 🤖 Completed LangChain, LangGraph and MCP Learning Path
 * 📚 Built Multiple End-to-End RAG Applications
     * 🎤 Developed an AI Interview Assistant with ATS Evaluation
     * 🎥 Developed a YouTube Q&A Assistant using Transcript Retrieval
@@ -68,7 +67,7 @@ class VikasPrajapat:
 
 ### 🎤 AI Interview Copilot
 
-An AI-powered interview preparation platform that analyzes resumes against job descriptions, conducts role-specific mock interviews, evaluates candidate responses, and generates ATS scores, skill-gap analysis, and hiring recommendations.
+An AI-powered interview preparation platform that analyzes resumes against job descriptions, generates ATS scores, skill-gap analysis and conducts role-specific mock interviews, evaluates candidate responses, and hiring recommendations.
 
 **Tech:** LangChain • LLMs • Prompt Engineering • Structured Outputs • Streamlit
 
