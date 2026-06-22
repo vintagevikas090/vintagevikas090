@@ -1,18 +1,17 @@
 <h1 align="center">Vikas Prajapat</h1>
 
-<h3 align="center">Applied AI Engineer | Generative AI | AI Agents | RAG Systems</h3>
+<h3 align="center">
+Applied AI Engineer
+</h3>
 
 <p align="center">
-Building production-ready AI applications with LangChain, LangGraph, and FastAPI
+<b>Generative AI • Retrieval-Augmented Generation • AI Agents</b>
 </p>
 
 <p align="center">
-🎓 NIT Warangal Graduate &nbsp;•&nbsp; 🤖 Applied AI Enthusiast &nbsp;•&nbsp; 💻 Python Developer
+<I>From data to deployment — building practical AI systems for real-world problems.</I>
 </p>
 
----
-
-# 👨‍💻 About Me
 
 ```python
 class VikasPrajapat:
