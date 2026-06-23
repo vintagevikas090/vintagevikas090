@@ -1,5 +1,3 @@
-<h1 align="center">Vikas Prajapat</h1>
-
 <h3 align="center">
 Applied AI Engineer
 </h3>
