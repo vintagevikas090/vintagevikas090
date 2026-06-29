@@ -22,24 +22,16 @@ class VikasPrajapat:
     }
 
     focus = [
-        "Python Development",
-        "Generative AI",
-        "LLM Applications",
-        "RAG Systems",
-        "Multi-Agent Workflows"
+        "Python Development", "Generative AI", "LLM Applications",
+        "RAG Systems", "Multi-Agent Workflows"
     ]
 
     completed = [
-        "LangChain",
-        "Conversational RAG",
-        "LangGraph",
-        "MCP Fundamentals"
+        "LangChain", "Conversational RAG", "LangGraph", "MCP Fundamentals"
     ]
 
     exploring = [
-        "GraphRAG",
-        "Knowledge Graphs",
-        "Production AI Systems"
+        "GraphRAG", "Knowledge Graphs", "Production AI Systems"
     ]
 
     flagship_projects = [
